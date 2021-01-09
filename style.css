@@ -1,0 +1,115 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: tomato;
+}
+.top-half{
+    width: 40%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 2%;
+}
+.top-half img{
+    width: 100%;
+}
+/* section{
+    height: 500px;
+} */
+.one{
+    height: 25%;
+}
+.two{
+    height: 25%;
+}
+.three{
+    height: 25%;
+    width: 100%;
+    float: left;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(45deg,lightSalmon,tomato);
+    padding:10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+        
+}
+.bellow-half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.bellow-half img{
+    width: 100%;
+    
+}
+
+.download-button{
+    text-decoration: none;
+    background-image:linear-gradient(45deg,lightSalmon,tomato);
+    padding:10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+        
+}
+.heading-highlight{
+    color: red;
+}
+.heading-project{
+    text-align: center;
+}
+.project{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 7px;
+}
+.project img{
+    width: 90%;
+    
+    padding: 12px;
+
+}
+.inquiry{
+    float: left;
+    height: 3%;
+    background-image: url("shapes/background.png");
+    background-repeat: no-repeat;
+    width: 60%;
+    padding: 5%;
+    border: 10px;
+    margin: 120px;
+    border-radius: 30px;
+}
+.chat-button{
+    text-decoration: none;
+    background-image:linear-gradient(45deg,lightSalmon,tomato);
+    padding:10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+    float: right;
+    
+        
+}
+.text-inquiry{
+    color: white;
+}
+.contact{
+	width:20%;
+	background-color: #00ffff;
+	height: 15%;
+	margin: 10%;
+	margin-top: 80px;
+    padding:40px;
+    float: left;
+}
